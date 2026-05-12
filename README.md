@@ -13,7 +13,7 @@ Este é um projeto desenvolvido em **Java** que simula um detector de phishing e
 
 ## 🤝 Colaboradores
 Este projeto foi desenvolvido em conjunto por:
-- **Eduardo Simas (BugaX6)** - [Seu Link do GitHub]
+- **Eduardo Simas (BugaX6)** - [Seu Link do Git(Hubhttps://github.com/BugaX6]
 - **Juka (juka700)** - [O link do GitHub(https://github.com/juka700)
 - **[Nome do outro amigo]** - [Link do GitHub dele]
 
